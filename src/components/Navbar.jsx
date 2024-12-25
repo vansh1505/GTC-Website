@@ -8,10 +8,10 @@ const Navbar = () => {
     <img className='h-16 p-2' src="logo.png" alt="logo" />
     <div>
         <ul className='flex gap-20'>
-            <li>Home</li>
-            <li>Register</li>
-            <li>Contact us</li>
-            <li>About GTC</li>
+            <li className='hover:cursor-pointer hover:text-blue-600 duration-200'>Home</li>
+            <li className='hover:cursor-pointer hover:text-blue-600 duration-200'>Register</li>
+            <li className='hover:cursor-pointer hover:text-blue-600 duration-200'>Contact us</li>
+            <li className='hover:cursor-pointer hover:text-blue-600 duration-200'>About GTC</li>
         </ul>
     </div>
     </div>
