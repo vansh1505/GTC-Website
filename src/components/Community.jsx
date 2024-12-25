@@ -16,7 +16,7 @@ const clubs = [
     { name: 'DATA SCIENCE CLUB', description: 'Explores data science and analytics.', img: '/Club Logos/DSCL.png' },
     { name: 'NETWORKING CLUB', description: 'Promotes networking technologies and skills.', img: '/Club Logos/Networking.png' },
     { name: 'GTC PROMOTION CLUB', description: 'Focuses on promoting GTC activities.', img: '/Club Logos/promotion.png' },
-    { name: 'GTC MANAGEMENT CLUB', description: 'Dedicated to managing GTC events.', img: '/Club Logos/GTC MANAGEMENT CLUB.png' }
+    { name: 'GTC MANAGEMENT CLUB', description: 'Dedicated to managing GTC events.', img: '/Club Logos/management.jpg' }
 ];
 
 const Community = () => {
